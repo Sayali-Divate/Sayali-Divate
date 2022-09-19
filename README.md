@@ -1,3 +1,5 @@
+![logo](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
+
 <h1 align="center" style="margin-bottom:20px">Hey, I'm Sayali Divate</h1>
 <h3 align="left", style="margin-bottom:10px">About me</h3>
 
