@@ -6,9 +6,6 @@
 
 <div align="left" style="width:400px">I'm a Java Backend Developer, having knowledge of core Java, spring boot as well as some frontend technologies like html, css and Javascript. I'm passionate about building the projects using the technical knowledge, that I gained.</div>
 
-- 👨‍💻 All of my projects are available at [https://sayali-divate.github.io/](https://sayali-divate.github.io/)
-
-- ⚡ Fun fact :---- **Funny in sarcastic way...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
