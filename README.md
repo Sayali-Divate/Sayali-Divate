@@ -1,4 +1,4 @@
-![logo](https://github.com/Sayali-Divate/Sayali-Divate/blob/master/NewBanner.png)
+![logo](https://github.com/Sayali-Divate/Sayali-Divate/blob/master/GitHub_Banner.png)
 
 <h3 align="left", style="margin-bottom:10px">About me</h3>
 
