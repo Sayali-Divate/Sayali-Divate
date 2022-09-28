@@ -6,6 +6,8 @@
 
 <div align="left" style="width:400px">I'm a Java Backend Developer, having knowledge of core Java, spring boot as well as some frontend technologies like html, css and Javascript. I'm passionate about building the projects using the technical knowledge, that I gained.</div>
 
+<div align="left" style="width:400px">I'm Open to the oportunities wherein I can make my skills more robust and escalate with progress.</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
