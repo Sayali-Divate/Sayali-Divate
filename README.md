@@ -28,6 +28,6 @@
 
 <p><img align="right" style="width:45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayali-divate&" alt="sayali-divate" /></p>
 
-<p><img align="left" style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayali-divate&show_icons=true&locale=en&layout=compact" alt="sayali-divate" /></p>
+<p><img align="left" style="width:45%" src="" /></p>
 
 
